@@ -2,8 +2,3 @@
 __pycache__/
 .ipynb_checkpoints/
 .pytest_cache/
-
-# NISR microdata must never be committed
-*.dta
-*.sav
-data/
