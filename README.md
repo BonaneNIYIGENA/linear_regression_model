@@ -23,7 +23,7 @@ The file is in `summative/linear_regression/data/`, next to the notebook.
 
 ## Video demo
 
-YouTube: [add the link here](https://youtu.be/FPihwQ0SxOM)
+YouTube: https://youtu.be/FPihwQ0SxOM
 
 ## How to run the mobile app
 
