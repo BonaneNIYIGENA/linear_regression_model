@@ -8,12 +8,13 @@ import pandas as pd
 from fastapi import FastAPI
 from pydantic import BaseModel, Field, field_validator
 
+from retrain import router
+
 FOLDER = Path(__file__).parent
 MODEL_PATH = FOLDER / "best_model.pkl"
 
 FEATURES = ["age", "sex", "province", "area", "school_level", "school_type", "boarding", "household_size", "payer"]
 
-# the allowed text for every category column, exactly as in the training data
 CHOICES = {
     "sex": ["Male", "Female"],
     "province": ["Kigali", "Southern", "Western", "Northern", "Eastern"],
@@ -36,7 +37,6 @@ class Student(BaseModel):
     household_size: int = Field(ge=1, le=20, description="number of people in the household")
     payer: Literal["Father", "Mother", "Both parents", "Other household member", "Other relative", "Self", "Other"]
 
-    # "private" and "Private " are accepted as "Private"
     @field_validator(*CHOICES, mode="before")
     @classmethod
     def match_capital_letters(cls, value, info):
@@ -49,10 +49,10 @@ class Student(BaseModel):
 
 app = FastAPI(title="Schooling expenditure prediction", description="Predicts the yearly school spending of a student in RWF")
 
-model = joblib.load(MODEL_PATH)   # loaded once when the server starts
-model.steps[-1][1].set_params(n_jobs=1)   # one thread is faster for a single row and fits the free Render plan
+app.include_router(router)
 
-
+model = joblib.load(MODEL_PATH)
+model.steps[-1][1].set_params(n_jobs=1)
 @app.get("/")
 def home():
     return {"message": "Schooling expenditure API. Open /docs to try it."}

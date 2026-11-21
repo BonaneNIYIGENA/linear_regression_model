@@ -1,0 +1,500 @@
+age,sex,province,area,school_level,school_type,boarding,household_size,payer,expenditure
+13,Male,Kigali,Urban,Primary,Public,Not applicable,4,Both parents,19500.0
+4,Male,Kigali,Urban,Nursery,Private,Not applicable,4,Both parents,127000.0
+22,Male,Kigali,Urban,Upper secondary,Public,Yes,5,Both parents,253000.0
+19,Male,Kigali,Urban,Lower secondary,Public,No,5,Both parents,84000.0
+10,Male,Kigali,Urban,Primary,Public,Not applicable,5,Both parents,173400.0
+10,Female,Kigali,Urban,Primary,Government subsidized,Not applicable,9,Both parents,93500.0
+9,Female,Kigali,Urban,Primary,Government subsidized,Not applicable,9,Both parents,90000.0
+6,Female,Kigali,Urban,Primary,Government subsidized,Not applicable,9,Both parents,23000.0
+4,Male,Kigali,Urban,Nursery,Government subsidized,Not applicable,9,Both parents,18000.0
+17,Male,Kigali,Urban,Lower secondary,Public,No,5,Other,115700.0
+14,Female,Kigali,Urban,Lower secondary,Public,No,5,Mother,91700.0
+6,Female,Kigali,Urban,Nursery,Private,Not applicable,5,Mother,165650.0
+13,Female,Kigali,Rural,Primary,Public,Not applicable,5,Both parents,16200.0
+10,Female,Kigali,Rural,Primary,Public,Not applicable,5,Both parents,11200.0
+7,Male,Kigali,Urban,Primary,Public,Not applicable,5,Both parents,22500.0
+14,Female,Kigali,Rural,Primary,Public,Not applicable,3,Other household member,32100.0
+16,Male,Kigali,Urban,Lower secondary,Public,Yes,14,Both parents,316500.0
+15,Female,Kigali,Urban,Primary,Public,Not applicable,14,Both parents,14000.0
+14,Female,Kigali,Urban,Primary,Public,Not applicable,14,Both parents,8000.0
+12,Female,Kigali,Urban,Primary,Public,Not applicable,14,Both parents,6000.0
+10,Male,Kigali,Urban,Primary,Public,Not applicable,14,Both parents,5000.0
+7,Male,Kigali,Urban,Primary,Public,Not applicable,14,Both parents,20000.0
+6,Female,Kigali,Urban,Primary,Private,Not applicable,7,Other household member,406700.0
+13,Male,Kigali,Urban,Lower secondary,Public,No,5,Both parents,108000.0
+6,Male,Kigali,Urban,Primary,Private,Not applicable,5,Both parents,45000.0
+7,Male,Kigali,Urban,Primary,Private,Not applicable,3,Father,640000.0
+9,Female,Kigali,Urban,Primary,Private,Not applicable,4,Father,476000.0
+4,Male,Kigali,Urban,Nursery,Private,Not applicable,4,Father,356000.0
+18,Male,Kigali,Urban,Lower secondary,Public,No,8,Both parents,21000.0
+14,Male,Kigali,Urban,Primary,Public,Not applicable,8,Both parents,15000.0
+7,Female,Kigali,Urban,Primary,Public,Not applicable,8,Both parents,4000.0
+6,Male,Kigali,Urban,ECD,Public,Not applicable,8,Both parents,27000.0
+4,Female,Kigali,Urban,ECD,Public,Not applicable,8,Both parents,27000.0
+2,Female,Kigali,Urban,ECD,Public,Not applicable,8,Both parents,27000.0
+11,Female,Kigali,Urban,Primary,Public,Not applicable,3,Other,12500.0
+5,Male,Kigali,Urban,Nursery,Private,Not applicable,3,Other,68350.0
+14,Female,Kigali,Urban,Lower secondary,Government subsidized,No,3,Mother,13600.0
+9,Female,Kigali,Urban,Primary,Government subsidized,Not applicable,3,Mother,8400.0
+16,Female,Kigali,Urban,Lower secondary,Public,No,10,Both parents,83400.0
+14,Female,Kigali,Urban,Lower secondary,Public,No,10,Both parents,77550.0
+12,Male,Kigali,Urban,Primary,Public,Not applicable,10,Both parents,12600.0
+9,Female,Kigali,Urban,Primary,Public,Not applicable,10,Both parents,16600.0
+7,Female,Kigali,Urban,Primary,Public,Not applicable,10,Both parents,33650.0
+24,Female,Kigali,Urban,Upper secondary,Public,No,6,Other relative,446900.0
+15,Female,Kigali,Urban,Primary,Private,Not applicable,6,Other relative,400000.0
+24,Male,Kigali,Urban,Upper secondary,Public,Yes,5,Both parents,396000.0
+10,Male,Kigali,Urban,Primary,Private,Not applicable,5,Both parents,1535000.0
+6,Male,Kigali,Urban,Primary,Private,Not applicable,5,Both parents,1512000.0
+17,Female,Kigali,Urban,Upper secondary,Government subsidized,Yes,6,Mother,385000.0
+14,Female,Kigali,Urban,Lower secondary,Government subsidized,No,6,Both parents,68800.0
+9,Female,Kigali,Urban,Primary,Public,Not applicable,6,Both parents,17450.0
+7,Male,Kigali,Urban,Primary,Public,Not applicable,6,Both parents,17450.0
+18,Female,Kigali,Urban,Upper secondary,Public,Yes,7,Both parents,180000.0
+16,Female,Kigali,Urban,Lower secondary,Public,Yes,7,Both parents,293000.0
+10,Male,Kigali,Urban,Primary,Public,Not applicable,7,Both parents,23000.0
+7,Male,Kigali,Urban,Primary,Public,Not applicable,7,Both parents,23000.0
+19,Female,Kigali,Urban,Upper secondary,Public,No,7,Other household member,78000.0
+18,Female,Kigali,Urban,Upper secondary,Public,Yes,6,Both parents,517000.0
+11,Female,Kigali,Urban,Primary,Private,Not applicable,6,Both parents,885000.0
+8,Female,Kigali,Urban,Primary,Private,Not applicable,6,Both parents,675000.0
+5,Female,Kigali,Urban,Primary,Private,Not applicable,4,Father,200000.0
+3,Female,Kigali,Urban,Nursery,Private,Not applicable,4,Father,100000.0
+4,Male,Kigali,Urban,Nursery,Private,Not applicable,4,Both parents,195700.0
+17,Male,Kigali,Urban,Primary,Public,Not applicable,9,Both parents,18500.0
+14,Female,Kigali,Urban,Primary,Public,Not applicable,9,Both parents,14500.0
+13,Male,Kigali,Urban,Primary,Public,Not applicable,9,Both parents,13000.0
+30,Male,Kigali,Urban,Tertiary,Private,Not applicable,4,Self,1176064.0
+5,Female,Kigali,Urban,Nursery,Public,Not applicable,3,Other relative,9000.0
+3,Male,Southern,Rural,ECD,Public,Not applicable,4,Both parents,12000.0
+2,Female,Southern,Rural,ECD,Public,Not applicable,4,Both parents,6000.0
+13,Female,Southern,Rural,Primary,Government subsidized,Not applicable,5,Both parents,24900.0
+8,Male,Southern,Rural,Primary,Government subsidized,Not applicable,5,Both parents,13200.0
+5,Female,Southern,Rural,Nursery,Government subsidized,Not applicable,5,Both parents,11800.0
+16,Female,Southern,Rural,Lower secondary,Public,No,4,Mother,32800.0
+11,Female,Southern,Rural,Primary,Public,Not applicable,4,Mother,8300.0
+8,Female,Southern,Rural,Primary,Public,Not applicable,5,Both parents,13350.0
+6,Male,Southern,Rural,Primary,Public,Not applicable,5,Both parents,9950.0
+11,Male,Southern,Urban,Primary,Government subsidized,Not applicable,5,Both parents,41500.0
+10,Male,Southern,Urban,Primary,Government subsidized,Not applicable,5,Both parents,22900.0
+19,Female,Southern,Urban,Upper secondary,Government subsidized,Yes,5,Other,200200.0
+14,Male,Southern,Rural,Primary,Government subsidized,Not applicable,6,Both parents,16750.0
+11,Female,Southern,Rural,Primary,Government subsidized,Not applicable,6,Both parents,18900.0
+7,Female,Southern,Rural,Primary,Government subsidized,Not applicable,6,Both parents,7750.0
+5,Male,Southern,Rural,Nursery,Government subsidized,Not applicable,6,Both parents,7600.0
+15,Female,Southern,Rural,Lower secondary,Public,No,2,Father,63000.0
+18,Male,Southern,Rural,Lower secondary,Public,No,2,Father,19000.0
+16,Male,Southern,Rural,Lower secondary,Government subsidized,No,7,Father,22800.0
+14,Male,Southern,Rural,Lower secondary,Government subsidized,No,7,Father,22800.0
+9,Female,Southern,Rural,Primary,Government subsidized,Not applicable,7,Father,2900.0
+12,Male,Southern,Rural,Primary,Public,Not applicable,2,Other relative,6900.0
+18,Male,Southern,Rural,Lower secondary,Public,No,6,Both parents,16500.0
+15,Female,Southern,Rural,Lower secondary,Public,No,6,Both parents,29500.0
+10,Male,Southern,Rural,Primary,Public,Not applicable,6,Both parents,8200.0
+7,Female,Southern,Rural,Primary,Public,Not applicable,6,Both parents,8500.0
+12,Female,Southern,Rural,Primary,Government subsidized,Not applicable,4,Mother,11850.0
+24,Female,Southern,Rural,Upper secondary,Public,No,5,Mother,48000.0
+9,Male,Southern,Rural,Primary,Public,Not applicable,5,Mother,16850.0
+2,Female,Southern,Rural,ECD,Public,Not applicable,5,Mother,3450.0
+2,Male,Southern,Rural,ECD,Public,Not applicable,5,Mother,1250.0
+10,Female,Southern,Rural,Primary,Public,Not applicable,6,Both parents,4650.0
+7,Female,Southern,Rural,Primary,Public,Not applicable,6,Both parents,4250.0
+4,Male,Southern,Rural,ECD,Public,Not applicable,6,,7900.0
+12,Female,Southern,Rural,Primary,Government subsidized,Not applicable,5,Other household member,5300.0
+12,Male,Southern,Rural,Primary,Government subsidized,Not applicable,5,Both parents,28200.0
+9,Female,Southern,Rural,Primary,Government subsidized,Not applicable,5,Both parents,8200.0
+2,Male,Southern,Rural,ECD,Public,Not applicable,5,Both parents,2000.0
+9,Male,Southern,Rural,Primary,Public,Not applicable,5,Mother,15000.0
+7,Female,Southern,Rural,Primary,Public,Not applicable,5,Mother,6200.0
+9,Female,Southern,Rural,Primary,Public,Not applicable,5,Other household member,9500.0
+15,Female,Southern,Rural,Primary,Government subsidized,Not applicable,9,Mother,52500.0
+12,Female,Southern,Rural,Primary,Government subsidized,Not applicable,9,Mother,15800.0
+8,Female,Southern,Rural,Primary,Government subsidized,Not applicable,9,Mother,16800.0
+4,Female,Southern,Rural,ECD,Government subsidized,Not applicable,9,Mother,9400.0
+2,Female,Southern,Rural,ECD,Government subsidized,Not applicable,9,Other household member,9400.0
+15,Male,Southern,Rural,Primary,Government subsidized,Not applicable,7,Both parents,12000.0
+13,Female,Southern,Rural,Primary,Government subsidized,Not applicable,7,Both parents,4650.0
+10,Female,Southern,Rural,Primary,Government subsidized,Not applicable,7,Both parents,4400.0
+4,Female,Southern,Rural,ECD,Public,Not applicable,3,Both parents,6000.0
+14,Male,Southern,Rural,Primary,Government subsidized,Not applicable,6,Both parents,23140.0
+13,Male,Southern,Rural,Primary,Government subsidized,Not applicable,6,Both parents,18250.0
+9,Female,Southern,Rural,Primary,Government subsidized,Not applicable,6,Both parents,17300.0
+21,Male,Southern,Rural,Tertiary,Public,Not applicable,6,Other,543000.0
+17,Male,Southern,Rural,Primary,Government subsidized,Not applicable,5,Both parents,15200.0
+13,Female,Southern,Rural,Primary,Public,Not applicable,4,Other household member,14200.0
+5,Female,Southern,Rural,Primary,Public,Not applicable,7,Other relative,5500.0
+17,Female,Southern,Urban,Upper secondary,Public,Yes,4,Other household member,322000.0
+36,Male,Southern,Rural,Tertiary,Private,Not applicable,4,Self,522000.0
+16,Male,Southern,Rural,Upper secondary,Government subsidized,No,3,Other relative,26350.0
+12,Male,Southern,Rural,Primary,Public,Not applicable,3,Other relative,2100.0
+4,Female,Southern,Rural,ECD,Public,Not applicable,3,Other relative,9000.0
+13,Male,Southern,Rural,Primary,Public,Not applicable,5,Both parents,8600.0
+7,Female,Southern,Rural,Primary,Public,Not applicable,5,Both parents,5500.0
+11,Male,Southern,Rural,Primary,Public,Not applicable,6,Father,2800.0
+8,Male,Southern,Rural,Primary,Public,Not applicable,6,Both parents,3000.0
+5,Male,Southern,Rural,Primary,Public,Not applicable,6,Both parents,7600.0
+14,Female,Southern,Rural,Primary,Government subsidized,Not applicable,5,Both parents,9500.0
+8,Male,Southern,Rural,Primary,Government subsidized,Not applicable,5,Both parents,8000.0
+5,Male,Southern,Rural,Primary,Public,Not applicable,2,Mother,12750.0
+22,Male,Southern,Rural,Tertiary,Public,Not applicable,5,Other,415000.0
+18,Female,Southern,Rural,Upper secondary,Private,Yes,5,Both parents,336000.0
+15,Female,Southern,Rural,Lower secondary,Government subsidized,Yes,5,Both parents,176800.0
+9,Male,Southern,Rural,Primary,Public,Not applicable,4,Both parents,14500.0
+3,Male,Southern,Rural,Nursery,Public,Not applicable,4,Both parents,6800.0
+13,Female,Southern,Rural,Primary,Government subsidized,Not applicable,4,Both parents,35500.0
+12,Female,Southern,Rural,Primary,Government subsidized,Not applicable,4,Both parents,21100.0
+20,Male,Southern,Rural,Lower secondary,Public,No,7,Both parents,30000.0
+18,Female,Southern,Rural,Lower secondary,Public,No,7,Both parents,21500.0
+14,Female,Southern,Rural,Primary,Public,Not applicable,7,Both parents,13500.0
+8,Female,Southern,Rural,Primary,Public,Not applicable,7,Other,7000.0
+15,Female,Southern,Rural,Primary,Public,Not applicable,7,Other household member,13500.0
+11,Male,Southern,Rural,Primary,Government subsidized,Not applicable,5,Both parents,18375.0
+9,Female,Southern,Rural,Primary,Government subsidized,Not applicable,5,Both parents,18375.0
+4,Male,Southern,Rural,Nursery,Government subsidized,Not applicable,5,Both parents,9975.0
+14,Female,Southern,Rural,Primary,Government subsidized,Not applicable,4,Both parents,15100.0
+10,Female,Southern,Rural,Primary,Government subsidized,Not applicable,4,Both parents,13800.0
+2,Male,Southern,Rural,ECD,Public,Not applicable,3,Mother,2000.0
+16,Female,Southern,Rural,Lower secondary,Public,No,2,Other household member,66700.0
+16,Female,Southern,Rural,Lower secondary,Public,No,5,Other household member,77000.0
+4,Female,Southern,Rural,Nursery,Public,Not applicable,5,Other household member,10000.0
+12,Female,Southern,Urban,Lower secondary,Public,Yes,4,Both parents,173500.0
+7,Male,Southern,Urban,Primary,Public,Not applicable,4,Both parents,24000.0
+26,Male,Southern,Rural,Upper secondary,Public,Yes,5,Father,234300.0
+18,Female,Southern,Rural,Lower secondary,Public,No,5,Both parents,86500.0
+5,Female,Southern,Rural,Nursery,Public,Not applicable,5,Both parents,10100.0
+5,Female,Southern,Rural,Nursery,Public,Not applicable,4,Both parents,12200.0
+4,Male,Southern,Rural,ECD,Public,Not applicable,4,Both parents,5300.0
+6,Female,Southern,Rural,Nursery,Public,Not applicable,3,Mother,13000.0
+17,Male,Southern,Urban,Lower secondary,Public,No,8,Father,45500.0
+7,Female,Southern,Urban,Primary,Public,Not applicable,8,Father,11000.0
+11,Female,Southern,Rural,Primary,Government subsidized,Not applicable,5,Father,10650.0
+6,Female,Southern,Rural,Primary,Government subsidized,Not applicable,5,Father,11100.0
+7,Male,Southern,Rural,Primary,Public,Not applicable,4,Both parents,4475.0
+4,Female,Southern,Rural,ECD,Public,Not applicable,4,Both parents,3200.0
+14,Female,Southern,Rural,Primary,Public,Not applicable,6,Father,32000.0
+12,Female,Southern,Rural,Primary,Public,Not applicable,6,Father,30000.0
+5,Female,Southern,Rural,Nursery,Public,Not applicable,6,Father,15000.0
+21,Male,Southern,Urban,Upper secondary,Public,Yes,6,Both parents,210500.0
+14,Male,Southern,Urban,Primary,Government subsidized,Not applicable,6,Father,7600.0
+11,Male,Southern,Urban,Primary,Government subsidized,Not applicable,6,Both parents,5200.0
+9,Female,Southern,Rural,Primary,Public,Not applicable,2,Other household member,7700.0
+2,Male,Western,Rural,ECD,Government subsidized,Not applicable,4,Father,250.0
+7,Female,Western,Rural,Primary,Government subsidized,Not applicable,3,Other,5700.0
+5,Male,Western,Rural,Nursery,Government subsidized,Not applicable,4,Both parents,3170.0
+1,Female,Western,Rural,ECD,Public,Not applicable,4,,9700.0
+3,Female,Western,Rural,Nursery,Government subsidized,Not applicable,4,Both parents,6000.0
+7,Female,Western,Rural,Primary,Government subsidized,Not applicable,4,Both parents,11500.0
+15,Female,Western,Rural,Primary,Public,Not applicable,5,Both parents,5300.0
+8,Male,Western,Rural,Primary,Public,Not applicable,5,Both parents,4400.0
+21,Male,Western,Rural,Upper secondary,Government subsidized,No,6,Other,95100.0
+17,Female,Western,Rural,Lower secondary,Government subsidized,No,6,Other relative,71100.0
+14,Female,Western,Rural,Primary,Public,Not applicable,6,Other relative,12500.0
+11,Female,Western,Rural,Primary,Public,Not applicable,6,Both parents,11700.0
+19,Male,Western,Rural,Lower secondary,Government subsidized,No,6,Both parents,97900.0
+13,Female,Western,Rural,Primary,Government subsidized,Not applicable,6,Other relative,34500.0
+3,Male,Western,Rural,Nursery,Government subsidized,Not applicable,6,Other relative,4700.0
+22,Male,Western,Rural,Tertiary,Public,Not applicable,3,Other,490000.0
+5,Female,Western,Rural,Primary,Government subsidized,Not applicable,4,Mother,15000.0
+12,Female,Western,Rural,Primary,Public,Not applicable,2,Other household member,10500.0
+5,Male,Western,Rural,Nursery,Public,Not applicable,11,Other relative,14455.0
+1,Female,Western,Rural,ECD,Public,Not applicable,11,,10800.0
+22,Male,Western,Rural,Upper secondary,Public,Yes,11,Both parents,95600.0
+17,Female,Western,Rural,Upper secondary,Public,No,11,Both parents,66250.0
+15,Male,Western,Rural,Primary,Public,Not applicable,11,Both parents,13125.0
+10,Female,Western,Rural,Primary,Public,Not applicable,11,Both parents,18200.0
+15,Female,Western,Rural,Primary,Government subsidized,Not applicable,5,Father,14900.0
+12,Female,Western,Rural,Primary,Government subsidized,Not applicable,5,Father,10600.0
+10,Female,Western,Rural,Primary,Government subsidized,Not applicable,5,Father,11200.0
+17,Female,Western,Rural,Lower secondary,Government subsidized,No,9,Both parents,59500.0
+16,Female,Western,Rural,Lower secondary,Government subsidized,No,9,Both parents,60000.0
+14,Male,Western,Rural,Primary,Government subsidized,Not applicable,9,Both parents,12925.0
+9,Male,Western,Rural,Primary,Government subsidized,Not applicable,9,Both parents,13925.0
+7,Male,Western,Rural,Primary,Government subsidized,Not applicable,9,Both parents,11175.0
+5,Male,Western,Rural,Nursery,Government subsidized,Not applicable,9,Both parents,9225.0
+5,Female,Western,Rural,Nursery,Government subsidized,Not applicable,9,Both parents,9225.0
+9,Female,Western,Rural,Primary,Public,Not applicable,5,Both parents,14800.0
+6,Male,Western,Rural,Nursery,Public,Not applicable,5,Both parents,12300.0
+3,Female,Western,Rural,ECD,Public,Not applicable,5,Both parents,2700.0
+12,Male,Western,Rural,Primary,Public,Not applicable,6,Father,17500.0
+2,Male,Western,Rural,ECD,Public,Not applicable,6,Father,1500.0
+14,Male,Western,Rural,Primary,Public,Not applicable,6,Other relative,19000.0
+22,Male,Western,Urban,Upper secondary,Private,Yes,7,Both parents,185000.0
+20,Female,Western,Urban,Upper secondary,Public,Yes,7,Both parents,331800.0
+17,Male,Western,Urban,Upper secondary,Government subsidized,Yes,7,Both parents,280000.0
+15,Male,Western,Urban,Lower secondary,Government subsidized,Yes,7,Both parents,298000.0
+6,Male,Western,Rural,Nursery,Private,Not applicable,5,Both parents,12600.0
+4,Female,Western,Rural,ECD,Public,Not applicable,5,Both parents,3600.0
+17,Male,Western,Rural,Lower secondary,Public,No,6,Both parents,61600.0
+15,Female,Western,Rural,Primary,Public,Not applicable,6,Both parents,7750.0
+12,Male,Western,Rural,Primary,Public,Not applicable,6,Both parents,6000.0
+20,Male,Western,Urban,Tertiary,Private,Not applicable,6,Both parents,1139240.0
+18,Female,Western,Urban,Upper secondary,Public,Yes,6,Both parents,365500.0
+13,Female,Western,Urban,Lower secondary,Public,Yes,6,Both parents,465000.0
+3,Female,Western,Rural,ECD,Public,Not applicable,3,Both parents,3000.0
+17,Female,Western,Urban,Lower secondary,Government subsidized,No,6,Both parents,214200.0
+15,Female,Western,Urban,Primary,Government subsidized,Not applicable,6,Both parents,37900.0
+13,Male,Western,Urban,Primary,Government subsidized,Not applicable,6,Both parents,52500.0
+8,Female,Western,Urban,Primary,Government subsidized,Not applicable,6,Both parents,47500.0
+15,Female,Western,Urban,Primary,Public,Not applicable,4,Other household member,40500.0
+9,Male,Western,Rural,Primary,Public,Not applicable,5,Father,13000.0
+7,Male,Western,Rural,Primary,Public,Not applicable,5,Father,10450.0
+3,Female,Western,Rural,ECD,Public,Not applicable,5,Other relative,2800.0
+11,Female,Western,Urban,Primary,Government subsidized,Not applicable,6,Both parents,13100.0
+8,Female,Western,Urban,Primary,Government subsidized,Not applicable,6,Both parents,7600.0
+4,Female,Western,Urban,ECD,Public,Not applicable,6,Both parents,1500.0
+7,Female,Western,Urban,Primary,Government subsidized,Not applicable,3,Father,6000.0
+3,Male,Western,Rural,ECD,Public,Not applicable,4,Father,1500.0
+4,Female,Western,Rural,ECD,Public,Not applicable,3,Mother,10500.0
+16,Female,Western,Urban,Upper secondary,Public,No,2,Mother,55100.0
+10,Male,Western,Rural,Primary,Public,Not applicable,3,Mother,16000.0
+4,Female,Western,Rural,Nursery,Public,Not applicable,4,Both parents,7600.0
+14,Male,Western,Rural,Lower secondary,Public,No,5,Father,58500.0
+12,Male,Western,Rural,Primary,Government subsidized,Not applicable,5,Both parents,16950.0
+10,Male,Western,Rural,Primary,Government subsidized,Not applicable,5,Both parents,14700.0
+7,Male,Western,Rural,Primary,Government subsidized,Not applicable,5,Both parents,14400.0
+4,Female,Western,Rural,Nursery,Government subsidized,Not applicable,4,Father,1250.0
+2,Male,Western,Rural,ECD,Public,Not applicable,4,,8325.0
+17,Male,Western,Rural,Lower secondary,Government subsidized,No,4,Both parents,61000.0
+15,Female,Western,Rural,Lower secondary,Public,No,4,Father,69100.0
+13,Female,Western,Rural,Primary,Public,Not applicable,4,Other relative,16600.0
+12,Female,Western,Rural,Primary,Public,Not applicable,4,Other relative,9400.0
+4,Female,Western,Rural,Nursery,Government subsidized,Not applicable,4,Mother,8000.0
+18,Male,Western,Rural,Lower secondary,Public,No,3,Mother,52800.0
+8,Female,Western,Rural,Primary,Public,Not applicable,3,Mother,4650.0
+10,Female,Western,Rural,Primary,Public,Not applicable,5,Both parents,11800.0
+7,Female,Western,Rural,Primary,Public,Not applicable,5,Both parents,9500.0
+5,Female,Western,Rural,Nursery,Public,Not applicable,5,Both parents,7000.0
+17,Male,Western,Rural,Primary,Government subsidized,Not applicable,7,Father,23500.0
+13,Male,Western,Rural,Primary,Government subsidized,Not applicable,7,Father,9100.0
+10,Female,Western,Rural,Primary,Government subsidized,Not applicable,7,Father,9100.0
+22,Female,Western,Rural,Lower secondary,Public,Yes,10,Both parents,55500.0
+19,Female,Western,Rural,Lower secondary,Public,No,10,Both parents,59500.0
+14,Female,Western,Rural,Primary,Public,Not applicable,10,Both parents,30800.0
+13,Male,Western,Rural,Primary,Public,Not applicable,10,Both parents,21400.0
+7,Male,Western,Rural,Nursery,Public,Not applicable,10,Both parents,13600.0
+10,Female,Western,Rural,Primary,Public,Not applicable,5,Mother,5600.0
+8,Male,Western,Rural,Primary,Public,Not applicable,5,Mother,1800.0
+16,Female,Western,Urban,Lower secondary,Public,No,6,Other relative,90100.0
+11,Female,Western,Urban,Primary,Public,Not applicable,6,Other relative,18700.0
+8,Male,Western,Urban,Primary,Public,Not applicable,6,Other relative,24400.0
+18,Female,Western,Urban,Upper secondary,Public,Yes,6,Both parents,391500.0
+16,Female,Western,Urban,Lower secondary,Public,No,6,Both parents,90500.0
+12,Female,Western,Urban,Primary,Public,Not applicable,6,Both parents,20900.0
+10,Female,Western,Urban,Primary,Public,Not applicable,6,Both parents,10000.0
+12,Male,Western,Rural,Primary,Public,Not applicable,2,Other household member,16300.0
+12,Male,Western,Rural,Primary,Public,Not applicable,4,Mother,4500.0
+5,Male,Western,Rural,Nursery,Public,Not applicable,4,Both parents,6300.0
+11,Male,Western,Rural,Primary,Government subsidized,Not applicable,5,Both parents,8600.0
+7,Female,Western,Rural,Primary,Government subsidized,Not applicable,5,Both parents,10400.0
+12,Male,Western,Rural,Primary,Public,Not applicable,6,Both parents,13600.0
+9,Male,Western,Rural,Primary,Public,Not applicable,6,Both parents,19800.0
+7,Female,Western,Rural,Primary,Public,Not applicable,6,Both parents,9000.0
+12,Female,Western,Rural,Primary,Government subsidized,Not applicable,6,Both parents,38200.0
+9,Female,Western,Rural,Primary,Government subsidized,Not applicable,6,Both parents,15800.0
+10,Male,Western,Rural,Primary,Government subsidized,Not applicable,4,Other household member,16150.0
+11,Male,Northern,Rural,Primary,Public,Not applicable,5,Mother,29900.0
+5,Female,Northern,Rural,Nursery,Public,Not applicable,5,Mother,9100.0
+18,Female,Northern,Urban,Upper secondary,Public,Yes,2,Mother,399750.0
+11,Female,Northern,Urban,Primary,Public,Not applicable,5,Both parents,65000.0
+8,Male,Northern,Urban,Primary,Public,Not applicable,5,Both parents,150000.0
+7,Male,Northern,Rural,Primary,Public,Not applicable,4,Both parents,8400.0
+14,Female,Northern,Rural,Primary,Public,Not applicable,6,Both parents,13625.0
+11,Male,Northern,Rural,Primary,Public,Not applicable,6,Both parents,8925.0
+7,Male,Northern,Rural,Primary,Public,Not applicable,6,Both parents,7275.0
+5,Male,Northern,Rural,Nursery,Public,Not applicable,2,Mother,10100.0
+9,Male,Northern,Rural,Primary,Government subsidized,Not applicable,4,Both parents,3320.0
+7,Female,Northern,Rural,Primary,Public,Not applicable,5,Both parents,20000.0
+5,Female,Northern,Rural,Nursery,Public,Not applicable,5,Both parents,11000.0
+5,Female,Northern,Rural,Nursery,Public,Not applicable,5,Both parents,11000.0
+18,Male,Northern,Rural,Tertiary,Public,Not applicable,5,Other household member,478000.0
+9,Male,Northern,Rural,Primary,Public,Not applicable,3,Other relative,17100.0
+12,Female,Northern,Rural,Primary,Public,Not applicable,2,Mother,2000.0
+11,Male,Northern,Rural,Primary,Public,Not applicable,5,Both parents,26000.0
+9,Male,Northern,Rural,Primary,Public,Not applicable,5,Both parents,14000.0
+17,Male,Northern,Rural,Lower secondary,Public,No,6,Father,71500.0
+10,Female,Northern,Rural,Primary,Government subsidized,Not applicable,6,Other relative,3650.0
+8,Female,Northern,Rural,Primary,Government subsidized,Not applicable,6,Other relative,3200.0
+12,Male,Northern,Rural,Primary,Government subsidized,Not applicable,5,Other relative,18300.0
+3,Female,Northern,Rural,ECD,Public,Not applicable,5,Other relative,6500.0
+10,Female,Northern,Rural,Primary,Public,Not applicable,5,Other relative,11000.0
+4,Female,Northern,Rural,ECD,Public,Not applicable,5,Both parents,3000.0
+15,Female,Northern,Rural,Lower secondary,Public,No,4,Mother,105200.0
+13,Male,Northern,Rural,Primary,Government subsidized,Not applicable,8,Both parents,9900.0
+11,Male,Northern,Rural,Primary,Government subsidized,Not applicable,8,Father,5200.0
+6,Female,Northern,Rural,Nursery,Government subsidized,Not applicable,8,Both parents,4000.0
+10,Male,Northern,Rural,Primary,Public,Not applicable,5,Father,14925.0
+8,Male,Northern,Rural,Primary,Public,Not applicable,5,Father,13925.0
+2,Female,Northern,Rural,ECD,Public,Not applicable,3,Father,2400.0
+16,Female,Northern,Urban,Primary,Public,Not applicable,5,Mother,17400.0
+9,Male,Northern,Urban,Primary,Public,Not applicable,5,Other household member,13300.0
+7,Male,Northern,Urban,Primary,Public,Not applicable,5,Other household member,13300.0
+4,Male,Northern,Rural,Nursery,Public,Not applicable,3,Both parents,26000.0
+10,Female,Northern,Rural,Primary,Public,Not applicable,6,Father,9700.0
+8,Male,Northern,Rural,Primary,Public,Not applicable,6,Both parents,13500.0
+7,Female,Northern,Rural,Primary,Public,Not applicable,6,Both parents,8100.0
+16,Male,Northern,Rural,Lower secondary,Public,Yes,4,Mother,10000.0
+12,Female,Northern,Rural,Primary,Public,Not applicable,4,Mother,13400.0
+9,Female,Northern,Rural,Primary,Public,Not applicable,4,Mother,13700.0
+17,Female,Northern,Rural,Lower secondary,Public,No,6,Both parents,71000.0
+15,Female,Northern,Rural,Primary,Public,Not applicable,6,Both parents,13000.0
+12,Female,Northern,Rural,Primary,Public,Not applicable,6,Both parents,19000.0
+7,Male,Northern,Urban,Primary,Public,Not applicable,4,Both parents,24250.0
+9,Male,Northern,Rural,Primary,Public,Not applicable,4,Mother,16700.0
+20,Female,Northern,Urban,Upper secondary,Private,Yes,10,Both parents,452000.0
+18,Male,Northern,Urban,Upper secondary,Private,No,10,Both parents,585000.0
+16,Male,Northern,Urban,Lower secondary,Government subsidized,No,10,Both parents,112900.0
+2,Female,Northern,Urban,Nursery,Private,Not applicable,10,Father,82600.0
+14,Female,Northern,Rural,Primary,Public,Not applicable,7,Both parents,10300.0
+12,Male,Northern,Rural,Primary,Government subsidized,Not applicable,7,Both parents,15200.0
+7,Male,Northern,Rural,Primary,Government subsidized,Not applicable,7,Both parents,5700.0
+5,Male,Northern,Rural,Nursery,Government subsidized,Not applicable,7,Both parents,4550.0
+16,Female,Northern,Rural,Lower secondary,Private,Yes,6,Both parents,657000.0
+12,Female,Northern,Rural,Lower secondary,Public,No,6,Both parents,82550.0
+10,Male,Northern,Rural,Primary,Private,Not applicable,6,Both parents,126800.0
+19,Female,Northern,Rural,Upper secondary,Public,Yes,6,Both parents,417600.0
+15,Male,Northern,Rural,Lower secondary,Public,No,6,Both parents,84000.0
+11,Female,Northern,Rural,Primary,Public,Not applicable,6,Both parents,25000.0
+4,Male,Northern,Rural,ECD,Public,Not applicable,6,Both parents,79000.0
+15,Male,Northern,Rural,Primary,Public,Not applicable,5,Both parents,21000.0
+11,Male,Northern,Rural,Primary,Public,Not applicable,5,Both parents,18900.0
+19,Female,Northern,Rural,Upper secondary,Government subsidized,No,4,Both parents,133200.0
+17,Male,Northern,Rural,Upper secondary,Government subsidized,No,4,Both parents,163200.0
+16,Female,Northern,Urban,Lower secondary,Government subsidized,Yes,13,Both parents,332000.0
+14,Male,Northern,Urban,Lower secondary,Government subsidized,Yes,13,Both parents,372000.0
+10,Male,Northern,Urban,Primary,Private,Not applicable,13,Both parents,530000.0
+6,Male,Northern,Urban,Primary,Private,Not applicable,13,Both parents,182000.0
+10,Female,Northern,Urban,Primary,Public,Not applicable,13,Other household member,18900.0
+13,Male,Northern,Urban,Primary,Public,Not applicable,13,Other household member,20400.0
+26,Male,Northern,Urban,Tertiary,Public,Not applicable,13,Self,550000.0
+12,Male,Northern,Urban,Primary,Public,Not applicable,2,Other household member,16000.0
+16,Female,Northern,Rural,Primary,Public,Not applicable,8,Mother,1600.0
+14,Female,Northern,Rural,Primary,Public,Not applicable,8,Other,4200.0
+10,Male,Northern,Rural,Primary,Public,Not applicable,8,Mother,1800.0
+5,Female,Northern,Rural,Nursery,Public,Not applicable,8,Mother,200.0
+4,Female,Northern,Rural,ECD,Public,Not applicable,8,Mother,600.0
+18,Female,Northern,Rural,Lower secondary,Public,No,5,Both parents,137000.0
+14,Male,Northern,Rural,Primary,Public,Not applicable,5,Both parents,93800.0
+10,Female,Northern,Rural,Primary,Public,Not applicable,5,Both parents,16800.0
+11,Male,Northern,Rural,Primary,Government subsidized,Not applicable,5,Both parents,11000.0
+8,Female,Northern,Rural,Primary,Government subsidized,Not applicable,5,Both parents,9700.0
+16,Female,Northern,Rural,Primary,Public,Not applicable,5,Father,4250.0
+13,Male,Northern,Rural,Primary,Public,Not applicable,5,Both parents,17300.0
+11,Male,Northern,Rural,Primary,Public,Not applicable,5,Both parents,15600.0
+14,Male,Northern,Rural,Primary,Public,Not applicable,5,Mother,27700.0
+7,Female,Northern,Rural,Primary,Public,Not applicable,5,Both parents,26200.0
+5,Female,Northern,Rural,Primary,Public,Not applicable,5,Both parents,17500.0
+3,Male,Northern,Rural,Nursery,Private,Not applicable,3,Other household member,807000.0
+6,Female,Eastern,Urban,Primary,Public,Not applicable,4,Mother,27100.0
+11,Male,Eastern,Urban,Primary,Public,Not applicable,4,Mother,14400.0
+6,Male,Eastern,Urban,Primary,Public,Not applicable,4,Mother,2000.0
+11,Male,Eastern,Rural,Primary,Public,Not applicable,6,Both parents,10700.0
+8,Female,Eastern,Rural,Primary,Public,Not applicable,6,Both parents,8700.0
+4,Male,Eastern,Rural,Nursery,Public,Not applicable,6,Both parents,10000.0
+16,Female,Eastern,Rural,Lower secondary,Public,No,5,Mother,39500.0
+4,Female,Eastern,Rural,Nursery,Public,Not applicable,5,Mother,8200.0
+13,Male,Eastern,Rural,Primary,Public,Not applicable,5,Mother,15800.0
+16,Male,Eastern,Rural,Lower secondary,Public,No,6,Both parents,73700.0
+11,Female,Eastern,Rural,Primary,Public,Not applicable,6,Both parents,15450.0
+9,Female,Eastern,Rural,Primary,Public,Not applicable,6,Both parents,10600.0
+4,Male,Eastern,Rural,ECD,Private,Not applicable,6,Both parents,10250.0
+10,Male,Eastern,Urban,Primary,Private,Not applicable,6,Both parents,655200.0
+8,Female,Eastern,Urban,Primary,Private,Not applicable,6,Both parents,296000.0
+10,Male,Eastern,Rural,Primary,Public,Not applicable,4,Other relative,7750.0
+6,Female,Eastern,Rural,Nursery,Public,Not applicable,4,Other relative,11500.0
+16,Male,Eastern,Rural,Lower secondary,Public,No,5,Both parents,38000.0
+12,Male,Eastern,Rural,Primary,Public,Not applicable,5,Both parents,4750.0
+8,Female,Eastern,Rural,Primary,Private,Not applicable,5,,71000.0
+10,Male,Eastern,Rural,Primary,Public,Not applicable,4,Both parents,8500.0
+7,Male,Eastern,Rural,Primary,Public,Not applicable,4,Both parents,6200.0
+4,Male,Eastern,Urban,Nursery,Public,Not applicable,4,Father,22000.0
+13,Male,Eastern,Rural,Primary,Public,Not applicable,7,Other household member,31500.0
+11,Male,Eastern,Rural,Primary,Public,Not applicable,7,Other household member,18000.0
+6,Female,Eastern,Rural,Primary,Public,Not applicable,7,Other household member,16500.0
+22,Male,Eastern,Urban,Upper secondary,Public,Yes,7,Both parents,143700.0
+20,Male,Eastern,Urban,Lower secondary,Public,No,7,Both parents,150000.0
+17,Male,Eastern,Urban,Lower secondary,Public,No,7,Both parents,151100.0
+12,Female,Eastern,Urban,Primary,Public,Not applicable,7,Both parents,33400.0
+16,Male,Eastern,Urban,Lower secondary,Public,No,6,Both parents,89500.0
+13,Female,Eastern,Urban,Lower secondary,Public,No,6,Both parents,89500.0
+9,Female,Eastern,Urban,Primary,Public,Not applicable,6,Both parents,20500.0
+11,Male,Eastern,Rural,Primary,Public,Not applicable,4,Both parents,14000.0
+7,Female,Eastern,Rural,Primary,Public,Not applicable,4,Both parents,14000.0
+16,Male,Eastern,Rural,Lower secondary,Public,No,2,Mother,56000.0
+14,Female,Eastern,Urban,Primary,Public,Not applicable,6,Father,10700.0
+12,Female,Eastern,Urban,Primary,Public,Not applicable,6,Father,3800.0
+8,Female,Eastern,Urban,Primary,Public,Not applicable,6,Father,10000.0
+15,Male,Eastern,Rural,Primary,Public,Not applicable,2,Mother,16000.0
+18,Female,Eastern,Rural,Lower secondary,Public,No,7,Other,71700.0
+15,Female,Eastern,Rural,Primary,Public,Not applicable,7,Both parents,13250.0
+15,Female,Eastern,Rural,Primary,Public,Not applicable,7,Both parents,14450.0
+6,Male,Eastern,Urban,Primary,Private,Not applicable,4,Father,68000.0
+2,Male,Eastern,Rural,ECD,Public,Not applicable,3,Father,1000.0
+14,Male,Eastern,Rural,Primary,Government subsidized,Not applicable,5,Father,31700.0
+9,Female,Eastern,Rural,Primary,Government subsidized,Not applicable,5,Father,16600.0
+8,Female,Eastern,Rural,Primary,Government subsidized,Not applicable,5,Father,16800.0
+9,Female,Eastern,Rural,Primary,Public,Not applicable,3,Mother,13700.0
+8,Female,Eastern,Rural,Nursery,Public,Not applicable,6,Both parents,4150.0
+4,Male,Eastern,Rural,Nursery,Public,Not applicable,6,Both parents,1800.0
+4,Male,Eastern,Rural,Nursery,Public,Not applicable,6,Both parents,2000.0
+8,Male,Eastern,Rural,Primary,Government subsidized,Not applicable,5,Mother,31225.0
+5,Female,Eastern,Rural,Primary,Private,Not applicable,5,Mother,72550.0
+11,Male,Eastern,Rural,Primary,Government subsidized,Not applicable,4,Both parents,20900.0
+7,Female,Eastern,Rural,Primary,Government subsidized,Not applicable,4,Both parents,16350.0
+12,Male,Eastern,Rural,Primary,Government subsidized,Not applicable,7,Both parents,20400.0
+10,Female,Eastern,Rural,Primary,Government subsidized,Not applicable,7,Both parents,31300.0
+8,Female,Eastern,Rural,Primary,Government subsidized,Not applicable,7,Both parents,23300.0
+4,Male,Eastern,Rural,ECD,Private,Not applicable,7,Both parents,15000.0
+10,Male,Eastern,Rural,Primary,Public,Not applicable,4,Both parents,25500.0
+6,Female,Eastern,Rural,Nursery,Public,Not applicable,4,Both parents,14000.0
+13,Female,Eastern,Rural,Primary,Public,Not applicable,5,Both parents,9000.0
+18,Female,Eastern,Rural,Lower secondary,Public,No,7,Both parents,103400.0
+15,Male,Eastern,Rural,Primary,Public,Not applicable,7,Both parents,11900.0
+11,Female,Eastern,Rural,Primary,Public,Not applicable,7,Both parents,12000.0
+9,Male,Eastern,Rural,Primary,Public,Not applicable,7,Both parents,9000.0
+7,Female,Eastern,Rural,Primary,Public,Not applicable,7,Both parents,9000.0
+20,Female,Eastern,Rural,Upper secondary,Public,Yes,11,Other,44000.0
+15,Female,Eastern,Rural,Primary,Public,Not applicable,11,Both parents,39300.0
+11,Male,Eastern,Rural,Primary,Public,Not applicable,11,Both parents,5800.0
+13,Male,Eastern,Rural,Primary,Public,Not applicable,11,Both parents,3000.0
+6,Female,Eastern,Rural,Nursery,Public,Not applicable,11,Both parents,2600.0
+18,Male,Eastern,Rural,Primary,Public,Not applicable,7,Both parents,28100.0
+12,Male,Eastern,Rural,Primary,Public,Not applicable,7,Both parents,17000.0
+10,Male,Eastern,Rural,Primary,Public,Not applicable,7,Both parents,12650.0
+17,Female,Eastern,Rural,Lower secondary,Public,Yes,4,Both parents,82500.0
+10,Male,Eastern,Rural,Primary,Government subsidized,Not applicable,5,Father,14925.0
+16,Female,Eastern,Rural,Lower secondary,Public,No,6,Father,127500.0
+15,Female,Eastern,Rural,Primary,Private,Not applicable,6,Father,183700.0
+15,Male,Eastern,Rural,Primary,Private,Not applicable,6,Father,190500.0
+11,Female,Eastern,Rural,Primary,Private,Not applicable,6,Father,173200.0
+11,Female,Eastern,Rural,Primary,Private,Not applicable,6,Father,171200.0
+15,Male,Eastern,Urban,Primary,Government subsidized,Not applicable,5,Other household member,22900.0
+14,Male,Eastern,Urban,Primary,Public,Not applicable,5,Other household member,89700.0
+8,Male,Eastern,Rural,Primary,Public,Not applicable,5,Both parents,16000.0
+4,Female,Eastern,Rural,ECD,Public,Not applicable,5,Both parents,400.0
+2,Male,Eastern,Rural,ECD,Public,Not applicable,5,Both parents,400.0
+11,Male,Eastern,Rural,Primary,Public,Not applicable,5,Other household member,19400.0
+7,Female,Eastern,Rural,Primary,Public,Not applicable,5,Other household member,11400.0
+14,Male,Eastern,Rural,Primary,Public,Not applicable,5,Both parents,3000.0
+12,Male,Eastern,Rural,Primary,Public,Not applicable,5,Both parents,12300.0
+7,Female,Eastern,Rural,Primary,Public,Not applicable,5,Both parents,11500.0
+15,Male,Eastern,Rural,Primary,Public,Not applicable,4,Father,12500.0
+10,Male,Eastern,Rural,Primary,Public,Not applicable,4,Father,11500.0
+14,Female,Eastern,Rural,Primary,Public,Not applicable,6,Both parents,13000.0
+4,Female,Eastern,Rural,ECD,Public,Not applicable,6,Both parents,1500.0
+8,Female,Eastern,Rural,Primary,Public,Not applicable,6,Both parents,9200.0
+10,Male,Eastern,Rural,Primary,Public,Not applicable,4,Mother,5700.0
+8,Female,Eastern,Rural,Primary,Public,Not applicable,4,Mother,5500.0
+25,Female,Eastern,Urban,Tertiary,Private,Not applicable,8,Mother,1815700.0
+21,Female,Eastern,Urban,Tertiary,Public,Not applicable,8,Mother,241000.0
+19,Female,Eastern,Urban,Upper secondary,Public,Yes,8,Mother,201600.0
+17,Male,Eastern,Urban,Primary,Public,Not applicable,8,Mother,44900.0
+15,Male,Eastern,Urban,Primary,Public,Not applicable,8,Mother,32400.0
+11,Female,Eastern,Urban,Primary,Public,Not applicable,8,Mother,42500.0
+17,Female,Eastern,Rural,Primary,Public,Not applicable,3,Other,21100.0
+19,Male,Eastern,Urban,Upper secondary,Public,No,2,Other household member,143500.0
+9,Female,Eastern,Rural,Primary,Public,Not applicable,6,Both parents,38500.0
+12,Male,Eastern,Rural,Primary,Public,Not applicable,4,Both parents,18500.0
+8,Female,Eastern,Rural,Primary,Public,Not applicable,4,Both parents,21500.0
+8,Female,Eastern,Urban,Primary,Public,Not applicable,3,Mother,28100.0
+4,Male,Eastern,Urban,Nursery,Public,Not applicable,3,Mother,47600.0
